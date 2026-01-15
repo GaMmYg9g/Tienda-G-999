@@ -1,2 +1,2 @@
-# Tienda-G-999
-Ventas de productos
+# i-DroidCheck
+Aplicacion de consultas telefonicas para iPhone y Android.
